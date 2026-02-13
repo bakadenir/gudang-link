@@ -1,0 +1,47 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+}
+
+.container {
+  width: 300px;
+  border: 1px solid black;
+  padding: 15px;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 0;
+}
+
+input {
+  width: 90%;
+  padding: 5px;
+  margin-bottom: 10px;
+  display: block;
+}
+
+button {
+  padding: 8px 15px;
+  cursor: pointer;
+}
+
+#daftar-link {
+  margin-top: 20px;
+}
+
+.card {
+  border: 1px solid black;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.judul-link {
+  font-weight: bold;
+  display: block;
+}
+
+.isi-url {
+  color: blue;
+  font-size: 12px;
+}
